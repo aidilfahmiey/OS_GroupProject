@@ -28,7 +28,7 @@ g++ -o FCFS_DISK_SCHEDULING FCFS_DISK_SCHEDULING.cpp
 FCFS_DISK_SCHEDULING.exe
 ```
 
-## Can't compile in windows
+## If can't compile in windows
 
 - Download all the folder and codes and manually run it using your compiler in your machine.
 
