@@ -27,3 +27,6 @@ g++ -o FCFS_DISK_SCHEDULING FCFS_DISK_SCHEDULING.cpp
 ```
 FCFS_DISK_SCHEDULING.exe
 ```
+
+5. After running the program, you can check the file with name 'outputfile' in the 'src' folder to see the result of disc scheduling using fcfs.
+6. Every output is related with the input file using with their number in the file name.
