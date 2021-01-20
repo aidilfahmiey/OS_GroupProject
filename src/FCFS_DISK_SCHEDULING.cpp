@@ -21,10 +21,10 @@ int main()
 			case 1:
 			{
 				ifstream input;
-    			input.open("inputfile1.txt");
+    			input.open("../InputPart1/inputfile1.txt");
     			
     			ofstream output;
-    			output.open("outputfile1.txt");
+    			output.open("../OutputPart1/outputfile1.txt");
     
     			for(int x=0; x<numReq; x++){
     				input >> data[x];
@@ -54,10 +54,10 @@ int main()
    		case 2:
    			{
 				ifstream input;
-    			input.open("inputfile2.txt");
+    			input.open("../InputPart1/inputfile2.txt");
     			
     			ofstream output;
-    			output.open("outputfile2.txt");
+    			output.open("../OutputPart1/outputfile2.txt");
     
     			for(int x=0; x<numReq; x++){
     				input >> data[x];
@@ -87,10 +87,10 @@ int main()
    			case 3:
    			{
 				ifstream input;
-    			input.open("inputfile3.txt");
+    			input.open("../InputPart1/inputfile3.txt");
     			
     			ofstream output;
-    			output.open("outputfile3.txt");
+    			output.open("../OutputPart1/outputfile3.txt");
     
     			for(int x=0; x<numReq; x++){
     				input >> data[x];
@@ -120,10 +120,10 @@ int main()
    			case 4:
    			{
 				ifstream input;
-    			input.open("inputfile4.txt");
+    			input.open("../InputPart1/inputfile4.txt");
     			
     			ofstream output;
-    			output.open("outputfile4.txt");
+    			output.open("../OutputPart1/outputfile4.txt");
     
     			for(int x=0; x<numReq; x++){
     				input >> data[x];
