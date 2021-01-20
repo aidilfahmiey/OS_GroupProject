@@ -10,7 +10,7 @@
 
 ## Algorithms
 
-- FCFS - fcfs.cpp
+- FCFS DISC SCHEDULING - FCFS_DISK_SCHEDULING.cpp
 
 ## How to compile on Windows
 
