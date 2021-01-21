@@ -10,7 +10,6 @@ int main()
     int numTrack, totalData, num1, num2, num3, num4, num5, num6, num7, num8, sum=0,choose,exit;
     const int size = 20;
     const int  numReq = 9;
-    const int startTrack = 53;
     int data[size];
 	
 	cout<< "Please choose your case(1-4): ";
@@ -38,7 +37,7 @@ int main()
        		 		}
     			}
 	
-    			int temp = startTrack;
+    			int temp = data[1];
     			cout << temp;
    				 for (int i = 1; i < numReq; i++){
        				 cout << " -> " << data[i] << ' ';
@@ -71,7 +70,7 @@ int main()
         			}
     			}
 	
-    			int temp = startTrack;
+    			int temp = data[1];
     			cout << temp;
    				 for (int i = 1; i < numReq; i++){
        				 cout << " -> " << data[i] << ' ';
@@ -104,7 +103,7 @@ int main()
         			}
     			}
 	
-    			int temp = startTrack;
+    			int temp = data[1];
     			cout << temp;
    				 for (int i = 1; i < numReq; i++){
        				 cout << " -> " << data[i] << ' ';
@@ -137,7 +136,7 @@ int main()
         			}
     			}
 	
-    			int temp = startTrack;
+    			int temp = data[1];
     			cout << temp;
    				 for (int i = 1; i < numReq; i++){
        				 cout << " -> " << data[i] << ' ';
