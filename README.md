@@ -11,7 +11,7 @@
 ## Algorithms
 
 - FCFS DISC SCHEDULING - FCFS_DISK_SCHEDULING.cpp
-- Page Replacement Algorithm
+- Page Replacement Algorithm - PAGE_REPLACEMENT_ALGORITHM.cpp
 
 ## How to compile on Windows
 
