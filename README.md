@@ -1,4 +1,4 @@
-# C++ implementations of FCFS for disc scheduling algorithms
+# Group Assignment
 
 ## Group Members
 
