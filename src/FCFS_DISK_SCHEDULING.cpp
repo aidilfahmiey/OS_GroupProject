@@ -38,9 +38,9 @@ int main()
     			}
 	
     			int temp = data[1];
-    			cout << temp;
+    			
    				 for (int i = 1; i < numReq; i++){
-       				 cout << " -> " << data[i] << ' ';
+       				 cout << data[i] << " -> " ;
        				 sum += abs(data[i] - temp);
         		     temp = data[i];
     			}
